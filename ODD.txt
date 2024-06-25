@@ -1,0 +1,12 @@
+public class ODD
+{
+public static void main(String args[])
+{
+	System.out.println("First Java Program");
+	int num= Integer.parseInt(args[0]);
+        int num1= Integer.parseInt(args[1]);
+	int sum =num+num1;
+	System.out.println("add is  "+sum);
+	
+}
+}
