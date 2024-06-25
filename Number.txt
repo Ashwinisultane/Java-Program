@@ -1,0 +1,10 @@
+public class Number
+{
+public static void main(String args[])
+{
+	System.out.println("First Java Program");
+	int num= Integer.parseInt(args[0]);
+	System.out.println("Input Number is " +num);
+}
+
+}
